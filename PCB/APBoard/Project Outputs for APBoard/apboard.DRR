@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: apboard.PcbDoc   2022/5/4  15:19:34
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : apboard-RoundHoles.TXT
+ASCII SlotHoles File : apboard-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.4mm)                                             Round             60        PTH        0.00inch (0.00mm)
+T2      24mil (0.6mm)                                             Slot              4         PTH        0.00inch (0.00mm)
+T3      35mil (0.9mm)                                             Round             480       PTH        0.00inch (0.00mm)
+T4      39mil (1mm)                                               Round             6         PTH        0.00inch (0.00mm)
+T5      91mil (2.3mm)                                             Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              554
+
+Total Processing Time (hh:mm:ss) : 00:00:00
